@@ -1,6 +1,6 @@
 # mango
 
-![logo](images/logo.jpg)
+![logo](image/logo.jpg)
 
 # Strcture
 - clean 清洗脚本:html->txt
