@@ -1,8 +1,8 @@
-#mango
+# mango
 
-![image][images/logo.jpg]
+![logo](images/logo.jpg)
 
-#Strcture
+# Strcture
 - clean 清洗脚本:html->txt
 - crawl 爬取脚本:url->hmtl
 - log 日志输出
