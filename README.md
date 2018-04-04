@@ -1,9 +1,25 @@
-# mango
-
+# Mango
 ![logo](image/logo.jpg)
+---
+# Description
+Here give people some automated scripts to improve coding efficiency
 
-# Strcture
-- clean 清洗脚本:html->txt
-- crawl 爬取脚本:url->hmtl
-- log 日志输出
-- images 图片
+# Features
+- Python
+- automatic
+- helper-tool
+- design it by yourself
+
+# Requirements
+
+
+# Installing
+Not yet,but you can clone it to your local machine and use import grammer 
+
+# Usage
+- clean 清洗
+- crawl 爬取
+- log 日志
+
+# Example
+
