@@ -29,7 +29,7 @@ class crawler():
 			logger.error(e)
 			sys.exit(1)
 		if resp.status != 200:
-			logger.error("响应的HTTP状态：", resp.status)
+			logger.error("http status：", resp.status)
 			sys.exit(1)
 		html = resp.read()
 		det_charstes = chardet.detect(html)

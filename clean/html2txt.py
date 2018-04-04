@@ -33,7 +33,7 @@ if __name__ == '__main__':
 	headers = {
 	}
 	crawler = url2html.crawler(
-		"https://baike.baidu.com/item/%E7%BA%AF%E6%96%87%E6%9C%AC%E6%B5%8F%E8%A7%88%E5%99%A8/8789704", headers)
+		"https://www.baidu.com", headers)
 	html = crawler.get_html()
 
 	cleaner = cleaner()
